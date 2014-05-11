@@ -41,6 +41,10 @@ end
 
 ruby "2.0.0"
 
+# Added New Relic add-in to Heroku
+gem 'newrelic_rpm'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
